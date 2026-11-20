@@ -179,16 +179,16 @@ The workflow uses an Input Dialog to get the user's name and a Switch activity t
 # OUTPUT SCREENSHOTS:
 
 ## 1. IF Condition Workflow.
-![IF Condition Workflow](Output/if-workflow.png)
+<img width="572" height="557" alt="image" src="https://github.com/user-attachments/assets/cc07cec8-58b9-448b-8d49-996f88f103f1" />
 
 ## 2. IF Condition Execution Output.
-![IF Condition Output](Output/if-output.png)
+<img width="552" height="351" alt="image" src="https://github.com/user-attachments/assets/020e0a3f-b64f-4512-9fc1-17985aeff8b2" />
 
 ## 3. Switch Case Workflow.
-![Switch Case Workflow](Output/switch-workflow.png)
+<img width="640" height="683" alt="image" src="https://github.com/user-attachments/assets/6e916765-0e16-41c1-b26b-1ac6460bbf00" />
 
 ## 4. Switch Case Execution Output.
-![Switch Case Output](Output/switch-output.png)
+<img width="630" height="447" alt="image" src="https://github.com/user-attachments/assets/82c4014e-5761-42f9-9aa1-95a96d4b54e6" />
 
 # RESULT:
 
