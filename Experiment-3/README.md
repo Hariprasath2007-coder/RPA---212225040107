@@ -172,12 +172,16 @@ The workflow uses Assign and While activities to display numbers from 1 to 5. Th
 # OUTPUT SCREENSHOTS:
 
 ## 1. While Loop Workflow.
+<img width="753" height="660" alt="image" src="https://github.com/user-attachments/assets/6e1d5267-7b18-4ee7-90cc-3fc4b9a66339" />
 
 ## 2. While Loop Execution Output.
+<img width="691" height="351" alt="image" src="https://github.com/user-attachments/assets/aad21b5a-f24f-4fe0-baa3-81324420dbb3" />
 
 ## 3. Do-While Workflow.
+<img width="505" height="508" alt="image" src="https://github.com/user-attachments/assets/046cb01b-e10d-45ca-8fd2-89d6c7f14829" />
 
 ## 4. Do-While Execution Output.
+<img width="675" height="293" alt="image" src="https://github.com/user-attachments/assets/b3bd5779-7c14-471e-a664-a65dabb1774b" />
 
 # RESULT:
 
