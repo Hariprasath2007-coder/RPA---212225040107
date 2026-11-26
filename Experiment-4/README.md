@@ -92,15 +92,15 @@ Save and run the workflow to transfer the data from the input Excel file to the 
 
 # OUTPUT SCREENSHOTS:
 
-### 1. Input Excel Data
+## 1. Input Excel Data
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bb48fc32-30c0-4b58-9b38-951997f5013a" />
 
 
-### 2. Complete UiPath Workflow
+## 2. Complete UiPath Workflow
 <img width="388" height="516" alt="image" src="https://github.com/user-attachments/assets/ffe8d2bd-d294-4b7d-8d27-6a5672b7cf0d" />
 
 
-### 3. Output Excel Data
+## 3. Output Excel Data
 <img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/65c4d7f2-e17d-43ff-aac2-f1ec1617573d" />
 
 
