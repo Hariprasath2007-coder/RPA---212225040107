@@ -106,12 +106,17 @@ Run the workflow and verify the copied and renamed files in the destination fold
 
 # OUTPUT SCREENSHOTS:
 
-## 1. File Copy and Rename Workflow:
-![File Copy Workflow](file-copy-workflow.png)
+### 1. Main Workflow
 
-## 2. Destination Folder Output:
-![Renamed Files Output](renamed-files-output.png)
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| <img width="737" height="607" alt="image" src="https://github.com/user-attachments/assets/4f38d75f-a980-4b22-8c99-0460070eea3f" /> | <img width="707" height="626" alt="image" src="https://github.com/user-attachments/assets/2640e61c-2354-481c-b9ca-3935f1a2845d" />|
 
+### 2. Copy File Activity
+
+| Screenshot 3 | Screenshot 4 |
+|---|---|
+| <img width="1006" height="533" alt="image" src="https://github.com/user-attachments/assets/06bd8c00-fc58-47cb-ae15-7e5d2ccdcc1c" /> | <img width="1005" height="487" alt="image" src="https://github.com/user-attachments/assets/4bcfafbe-eaae-4d64-a049-3e226af80cbe" />|
 # RESULT:
 
 Thus, all files were successfully copied from the source folder to the destination folder and renamed by appending a timestamp to their file names using UiPath.
