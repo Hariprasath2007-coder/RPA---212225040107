@@ -75,10 +75,13 @@ End
 # OUTPUT SCREENSHOTS:
 
 ## 1. Web Form Automation Workflow
-![Web Form Workflow](Output/web-form-workflow.png)
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| <img width="652" height="605" alt="image" src="https://github.com/user-attachments/assets/2f9cdfa1-0cfa-4a6c-aece-17b725b37c53" /> | <img width="563" height="567" alt="image" src="https://github.com/user-attachments/assets/c4809068-76c2-4d24-a07d-420e2bcc715f" /> |
 
 ## 2. Filled and Submitted Web Form
-![Web Form Output](Output/web-form-output.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6ec77d8-7111-45c7-b625-8d3a55b6c829" />
+
 
 # RESULT:
 
