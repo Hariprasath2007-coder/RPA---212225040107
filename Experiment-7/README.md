@@ -99,11 +99,12 @@ Verify that the extracted text matches the content of the PDF file.
 # OUTPUT SCREENSHOTS:
 
 ## 1. PDF Text Extraction Workflow:
-![PDF Extraction Workflow](pdf-extraction-workflow.png)
+<img width="540" height="493" alt="image" src="https://github.com/user-attachments/assets/8dbb80af-aaef-4438-b55a-71df82b47a38" />
 
 ## 2. Extracted Text File Output:
-![Extracted Text Output](extracted-text-output.png)
-
+| Sample.pdf | Output.txt |
+|---|---|
+| <img width="1042" height="890" alt="image" src="https://github.com/user-attachments/assets/31025cd7-651b-404e-a121-3a064d64f779" /> | <img width="512" height="465" alt="image" src="https://github.com/user-attachments/assets/373011ec-7948-4d88-88d6-b97cc1dd0ffd" />|
 # RESULT:
 
 Thus, text was successfully extracted from a PDF file using UiPath and saved into a text file.
